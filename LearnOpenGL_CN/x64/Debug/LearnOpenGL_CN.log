@@ -1,0 +1,38 @@
+﻿  KeyController.cpp
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\KeyController.hpp(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  DrawFunction.cpp
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(127,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(128,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(129,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\DrawFunction.hpp(11,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  main.cpp
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\main.cpp(5,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  EulerOperation.cpp
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(127,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(128,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Master First-year\三维CAD建模\2023三维CAD建模大程作业_吕泽源_22321298\FinalProject\LearnOpenGL_CN\BasicDefinition.hpp(129,9): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
